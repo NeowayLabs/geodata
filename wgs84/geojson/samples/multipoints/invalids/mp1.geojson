@@ -1,6 +1,3 @@
-{
-	"type": "multipoint",
-	"coordinates": [
-        	[10, 10]
-        ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bbb0c9290244f8a02fec94b24bef097e3fd8101fd92a62caffd79c1565a5a3f
+size 73

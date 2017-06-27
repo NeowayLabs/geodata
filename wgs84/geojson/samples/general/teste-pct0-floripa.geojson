@@ -1,1 +1,3 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-48.5550857,-27.5991628],[-48.5448289,-27.5991628],[-48.5448289,-27.5900775],[-48.5550857,-27.5900775],[-48.5550857,-27.5991628]]]},"properties":null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1178e15ae6dc73e0218cfc818d258baa3161ed93460faffa7dc4c24eb42c0ad8
+size 256
